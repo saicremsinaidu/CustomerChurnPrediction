@@ -9,9 +9,6 @@
 
 A full-stack machine learning application for predicting customer churn in a telecommunications company, featuring interactive data exploration and real-time predictions.
 
-## Demo
-
-![App Demo](media/demo.gif)
 
 
 
