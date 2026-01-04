@@ -24,8 +24,7 @@ A full-stack machine learning application for predicting customer churn in a tel
 - [Data Analysis Insights](#data-analysis-insights)
 - [API Documentation](#api-documentation)
 - [Future Enhancements](#future-enhancements)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## 🔭 Overview
 
